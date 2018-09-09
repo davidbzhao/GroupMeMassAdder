@@ -1,0 +1,4 @@
+auth.yml
+
+*.csv
+!test.csv
